@@ -1,6 +1,6 @@
 <?
 $db_host="";
-$db_database="";
+$db_database="man";
 $db_username="";
 $db_password="";
 $connection = mysql_connect($db_host, $db_username, $db_password);
