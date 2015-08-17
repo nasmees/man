@@ -1,7 +1,7 @@
 <?
-$db_host="localhost";
-$db_database="asm";
-$db_username="root";
+$db_host="";
+$db_database="";
+$db_username="";
 $db_password="";
 $connection = mysql_connect($db_host, $db_username, $db_password);
 if (!$connection)
