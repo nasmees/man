@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0px;}
+#header{
+	background-image:url(../img/header.png);
+	height:84px;
+	width:100%;
+}
+#header img{
+	margin:0px 10px;}
+	
+	
+#adminmenu{
+	
+	}	
+	
+
+
+#footer{
+	position:fixed;
+	left:0;
+	bottom:10px;
+	text-align:center;
+	font:normal 11px/16px Verdana, Helvetica, sans-serif;
+	width:100%;
+}
+
+mainnavi {
+	color: #99CC00;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 15px Verdana, Helvetica, sans-serif;
+	border-bottom: 1px dashed #ccc;
+}
+
+navi {
+	color: #333;
+	padding: 0px 0px 4px;
+	font: 12px Verdana, Helvetica, sans-serif;
+	border-bottom: 1px dashed #ccc;
+	
+}
+
